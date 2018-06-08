@@ -1,5 +1,7 @@
 # iharp
 
+Pimp your simple plastic harp - checkout http://www.instructables.com/id/IHarp/ for instructions.
+
 Settings for Sainsmart Board
 - Arduino Uno
 - AVRISP mkII
